@@ -1,0 +1,235 @@
+* {
+  font-family: "Alef", sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+
+.card-part {
+  max-width: 900px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 1px solid lightgray;
+  box-shadow: 0 0 1px grey;
+}
+
+.icon-eye {
+  cursor: pointer;
+  color: gray;
+  float: right;
+  margin-top: -45px;
+  margin-right: 10px;
+}
+
+.addContact-btn {
+  padding: 7px 36px !important;
+  display: block;
+  background-color: #4747d1;
+  margin: 0 0 3rem;
+}
+
+table {
+  /* width: 80% !important; */
+  margin: 0 auto;
+}
+
+table thead tr th {
+  width: 20% !important;
+}
+
+table td,
+table th {
+  padding: 10px !important;
+  vertical-align: middle !important;
+}
+
+.input-error {
+  border: 1.5px solid #e63946;
+}
+
+.update-btn {
+  padding: 10px 20px;
+  border-radius: 4px;
+  background-color: #20a0b0;
+  color: #ffffff !important;
+}
+.update-btn:hover {
+  color: #ffffff;
+  text-decoration: none;
+  border: 2px solid #c0c0c0;
+}
+.delete-btn {
+  background-color: #e04040;
+  color: #ffffff !important;
+}
+
+.contact-content {
+  display: flex;
+}
+.category {
+  background: hsl(210, 36%, 96%);
+  border-radius: 0.25rem;
+  border-color: transparent;
+  padding: 0.5rem 1rem 0.5rem 0rem !important;
+  width: 156px;
+}
+.page {
+  min-height: calc(100vh - (20vh + 10rem));
+}
+.section-center {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+}
+.products {
+  display: grid;
+  gap: 3rem 1.5rem;
+  /* margin: 4rem auto; */
+}
+@media (min-width: 768px) {
+  .products {
+    grid-template-columns: 200px 1fr;
+  }
+}
+label {
+  margin: 0;
+}
+input[type="text"],
+input[type="password"],
+select {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  margin: 0 0 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+input[type="text"]:focus,
+input[type="password"]:focus,
+select:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 1px #80bdff;
+}
+
+.eye {
+  cursor: pointer;
+  color: gray;
+  float: right;
+  margin-top: -35px;
+  margin-right: 10px;
+}
+.common-btn {
+  font-weight: 400;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  padding: 6px 26px;
+  font-size: 1rem;
+  line-height: 1.5;
+  border: 1px solid transparent;
+}
+.add-btn {
+  display: inline-block;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+.common-btn:focus,
+.add-btn:focus,
+.view-contactlist-btn:focus,
+.addContact-btn:focus,
+.delete-btn:focus {
+  outline: 2px solid #c0c0c0;
+}
+.delete-btn:hover {
+  outline: 2px solid #c0c0c0;
+}
+.view-contactlist-btn {
+  display: block;
+  float: right;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.edit-cancel-btn {
+  display: block;
+  float: right;
+  color: #fff !important;
+  background-color: #6c757d !important;
+  border-color: #6c757d !important
+  ;
+}
+
+.error-style {
+  margin: 0 0 10px;
+  padding: 0;
+  color: red !important;
+}
+.error-control {
+  margin: 0 !important;
+  border: 1.5px solid red !important;
+}
+.edit-update-btn {
+  color: #fff !important;
+  background-color: #28a745 !important;
+  border-color: #28a745 !important;
+}
+
+.contacts-length {
+  background-color: #28a745;
+  color: #fff;
+  max-width: 180px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #28a745;
+}
+.ul_pagination {
+  display: flex;
+}
+ul li {
+  list-style-type: none;
+}
+
+.ul_pagination li a {
+  padding: 9px 14px;
+  color: #337ab7;
+  background-color: #fff;
+  text-decoration: none;
+  border: 1px solid #ddd;
+}
+
+.ul_pagination li.active a {
+  background-color: #337ab7;
+  border-color: #337ab7;
+  color: #fff;
+}
+.ul_pagination li.active a:hover {
+  background-color: #337ab7;
+  border-color: #337ab7;
+  color: #fff;
+}
+.ul_pagination li a:hover {
+  color: #23527c;
+  background-color: #eee;
+  border-color: #ddd;
+}
+
+.ul_pagination .li_content .disableEvent {
+  opacity: 0.6;
+  pointer-events: none;
+}
+.container {
+  padding: 0;
+}

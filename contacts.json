@@ -1,0 +1,144 @@
+{
+  "contacts": [
+    {
+      "id": 0.6012451167041271,
+      "name": "chandu",
+      "email": "chandu@gmail.com",
+      "category": "paytm",
+      "subcategory": "tester"
+    },
+    {
+      "id": 0.9764564584843414,
+      "name": "sai kumar",
+      "email": "saikumar@gmail.com",
+      "category": "myntra",
+      "subcategory": "designer"
+    },
+    {
+      "id": 0.7536230800626036,
+      "name": "ravi ",
+      "email": "ravi@gmail.com",
+      "category": "flipkart",
+      "subcategory": "tester"
+    },
+    {
+      "id": 0.5724936692469458,
+      "name": "manohar",
+      "email": "manohar@gmail.com",
+      "category": "twitter",
+      "subcategory": "designer"
+    },
+    {
+      "id": 0.9445405848715873,
+      "name": "gopi",
+      "email": "gopi123@gmail.com",
+      "category": "amazon",
+      "subcategory": "programmer"
+    },
+    {
+      "id": 0.17639652934611605,
+      "name": "teja kumar",
+      "email": "teja2123@gmail.com",
+      "category": "google",
+      "subcategory": "associate"
+    },
+    {
+      "id": 0.4756727489521475,
+      "name": "ashok",
+      "email": "ashok123@gmail.com",
+      "category": "google",
+      "subcategory": "tester"
+    },
+    {
+      "id": 0.3068603616002452,
+      "name": "eswar",
+      "email": "eswar2@gmail.com",
+      "category": "paytm",
+      "subcategory": "designer"
+    },
+    {
+      "id": 0.9918620686912463,
+      "name": "bargav",
+      "email": "bargav@gmail.com",
+      "category": "paytm",
+      "subcategory": "programmer"
+    },
+    {
+      "id": 0.8420187960342267,
+      "name": "nava neeth",
+      "email": "nava123@gmail.com",
+      "category": "facebook",
+      "subcategory": "tester"
+    },
+    {
+      "id": 0.3117918327939879,
+      "name": "nagarjuna",
+      "email": "nagarjuna@gmail.com",
+      "category": "netflix",
+      "subcategory": "developer"
+    },
+    {
+      "id": 0.10142862188734014,
+      "name": "venkatesh",
+      "email": "venky123@gmail.com",
+      "category": "facebook",
+      "subcategory": "associate"
+    },
+    {
+      "id": 0.03794538181929208,
+      "name": "naveen",
+      "email": "naveen123@gmail.com",
+      "category": "gmail",
+      "subcategory": "tester"
+    },
+    {
+      "id": 0.8081471111929919,
+      "name": "john",
+      "email": "john123@gmail.com",
+      "category": "amazon",
+      "subcategory": "associate"
+    },
+    {
+      "id": 0.008089210807947556,
+      "name": "chaitu",
+      "email": "chaitu123@gmail.com",
+      "category": "flipkart",
+      "subcategory": "developer"
+    },
+    {
+      "id": 0.7823913097055963,
+      "name": "tinku",
+      "email": "tinku123@gmail.com",
+      "category": "myntra",
+      "subcategory": "tester"
+    },
+    {
+      "id": 0.5075765606679177,
+      "name": "madhu",
+      "email": "madhu120@gmail.com",
+      "category": "myntra",
+      "subcategory": "programmer"
+    },
+    {
+      "id": 0.25340137090309467,
+      "name": "prathap",
+      "email": "prathap22@gmail.com",
+      "category": "flipkart",
+      "subcategory": "associate"
+    },
+    {
+      "id": 0.4967184889621066,
+      "name": "sunny",
+      "email": "sunny3783@gmail.com",
+      "category": "netflix",
+      "subcategory": "programmer"
+    },
+    {
+      "id": 0.11234329243533936,
+      "name": "lokesh",
+      "email": "lokesh433@gmail.com",
+      "category": "gmail",
+      "subcategory": "developer"
+    }
+  ]
+}
